@@ -1,7 +1,7 @@
 ---
 title: "Class 10:Halloween Mini Project"
 author: "Marwa"
-format: pdf
+format: gfm
 ---
 
 ```{r}
