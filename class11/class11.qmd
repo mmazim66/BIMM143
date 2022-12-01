@@ -1,7 +1,7 @@
 ---
 title: "Class 11 HW"
 author: "Marwa Mohammad Azim"
-format: pdf
+format: gfm
 ---
 #Section 4: Population Scale Analysis
 
